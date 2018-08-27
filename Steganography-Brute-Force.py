@@ -7,7 +7,7 @@ from time import time
 def banner():
     
 
-    print(Figlet(font='graffiti').renderText('Moayad Almalat'))
+    print(Figlet(font='graffiti').renderText('Moayad'))
     
 def parseArgs():
     
